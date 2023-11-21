@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Melodi
 - 👀 I’m interested in Data
 - 🌱 I’m currently learning Data Science and Analysis
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me melodiaysan@gmail.com
 
 <!---
