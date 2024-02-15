@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Melodi
 - 👀 I’m interested in Data Universe!
-- 🌱 I’m currently learning Data Science and Analysis
+- 🌱 I’m currently improving myself on Data Science and Analysis
 - 📫 How to reach me melodiaysan@gmail.com
 
 <!---
